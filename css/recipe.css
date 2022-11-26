@@ -1,0 +1,6 @@
+#recipe{
+    margin: 2%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}

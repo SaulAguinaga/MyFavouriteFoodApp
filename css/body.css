@@ -1,0 +1,30 @@
+body{
+    background: url(../assets/img/pizarra.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    color: #444444;
+}
+h2{
+    font-family: Western;
+    font-size: 5vw;
+    margin-bottom: 2vw;
+}
+h3{
+    font-family: Caviar;
+    font-size: 2vw;
+    margin: 0.5vw;
+}
+h4{
+    font-family: Caviar;
+    font-size: 1.5vw;
+}
+p{
+    font-family: Caviar;
+    font-size: 1.5vw;
+}
+li{
+    font-family: Caviar;
+    font-size: 2vw;
+    margin: 0.5vw;
+}

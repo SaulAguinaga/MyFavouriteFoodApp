@@ -1,0 +1,11 @@
+#titulo{
+    display: flex;
+    padding: 2%;
+    margin: 2%;
+    background-color: #F3BC28 ;
+    border-radius: 1.5vw;
+}
+#titulo h1{
+    font-family: Western;
+    font-size: 8vw;
+}

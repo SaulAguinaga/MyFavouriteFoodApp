@@ -1,0 +1,11 @@
+#preparation{
+    display: flex;
+    width: 60%;
+    background-color: #F9D44B;
+    border-radius: 1.5vw;
+    padding: 2%;
+    margin: 2%;
+}
+#preparation li{
+    margin-left: 2vw;
+}

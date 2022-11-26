@@ -1,0 +1,22 @@
+@import url(default.css);
+@import url(body.css);
+@import url(banner.css);
+@import url(footer.css);
+@import url(header.css);
+@import url(ingredients.css);
+@import url(preparation.css);
+@import url(time.css);
+@import url(recipe.css);
+
+@font-face {
+    font-family: Western;
+    src: url(../assets/fonts/WesternBangBang-Regular.ttf) format('truetype');
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: Caviar;
+    src: url(../assets/fonts/CaviarDreams.ttf) format('truetype');
+    font-style: normal;
+    font-weight: normal;
+}

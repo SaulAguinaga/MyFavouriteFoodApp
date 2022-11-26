@@ -1,0 +1,12 @@
+footer{
+    display: flex;
+    background-color: #7F5A1B;
+    display: flex;
+    padding: 2%;
+    margin: 2%;
+    border-radius: 1.5vw;
+    justify-content: center;
+}
+footer:hover{
+    color: white;
+}
